@@ -30,7 +30,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e7f1d214-0f90-4b79-bbd7-459e16ff0fda/deploy-status)](https://app.netlify.com/sites/sensational-cupcake-00fdfa/deploys)
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
